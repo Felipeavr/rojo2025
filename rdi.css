@@ -1056,6 +1056,7 @@ p#ubica {
 	width: 75%;
 	height: 100px;
 	/*background: #82aae7;*/
+	margin-left: 25px;
 }
 
 .txcont01 p {
@@ -1094,6 +1095,7 @@ p#ubica {
 	width: 75%;
 	height: 100px;
 	/*background: #82aae7;*/
+	margin-left: 25px;
 }
 
 .txcont02 p {
@@ -1103,7 +1105,7 @@ p#ubica {
 
 .contacto03 {
 	width: 100%;
-	height: 80px;
+	height: 50px;
 	display: flex;
 	flex-direction: row;
 	/*background: orange;*/
@@ -1134,17 +1136,18 @@ p#ubica {
 .txcont04 p span,
 .txcont05 p span,
 .txcont06 p span {
-	color: #b30f0f;
+	color: #5c5a5a;
 }
 
 .txcont03 {
 	width: 75%;
-	height: 100px;
+	height: 50px;
 	/*background: #82aae7;*/
+	margin-left: 25px;
 }
 
 .txcont03 p {
-	margin-top: 20px !important;
+	margin-top: 0px !important;
 }
 
 .contacto04 {
@@ -1158,19 +1161,19 @@ p#ubica {
 }
 
 .icon04 {
-	width: 25%;
+	width: 50px;
 	max-width: 50px;
 	height: 50px;
-	margin: 13px 20px 10px 20px;
+	margin: 13px 20px 10px 0px;
 	border-radius: 50%;
-	background: rgb(255, 255, 255);
+	background: rgb(0, 0, 0);
 	text-align: center;
 
 }
 
 .fa-brands.fa-instagram {
 	font-size: 30px;
-	color: rgb(107, 104, 104);
+	color: rgb(255, 255, 255);
 	margin-top: 10px;
 }
 
@@ -1181,12 +1184,16 @@ p#ubica {
 }
 
 .txcont04 p {
-	margin-top: 20px !important;
+	font-family: 'azosanslig';
+	margin-top: 15px !important;
+	color:  #c53c34  !important;
+	font-size: 13px;
+	font-weight: bold;
 }
 
 .contacto05 {
 	width: 100%;
-	height: 80px;
+	height: 50px;
 	display: flex;
 	flex-direction: row;
 	/*background: orange;*/
@@ -1219,7 +1226,7 @@ p#ubica {
 
 .txcont05 p {
 	text-align: left !important;
-	margin-top: 20px !important;
+	margin-top: 0px !important;
 }
 
 .contacto06 {
@@ -1336,10 +1343,10 @@ h3 {
 }
 
 .text-address-2 p {
-	text-align: center;
+	/*text-align: center;*/
 	color: #7a7a7a;
 	margin-top: 70px;
-	line-height: 1.5;
+	/*line-height: 1.5;*/
 }
 
 .textomiguel {
@@ -2183,7 +2190,9 @@ li:hover {
 		padding-bottom: 50px;
 	}
 
-
+	.txcont05{
+		height: 50px;
+	}
 
 
 	.wrapper3 {
@@ -2215,11 +2224,13 @@ li:hover {
 	.logocontacto {
 		display: none;
 	}
-
-	.contacto05 {
-		margin: 0 auto;
+	.contacto04 {
+		margin-left: 25px;
 	}
-
+	.contacto05 {
+		margin: 0px auto auto 25px;
+	}
+        
 	.logocontacto2 {
 		display: block;
 		margin-left: 20px;
