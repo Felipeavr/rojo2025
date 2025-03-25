@@ -1821,7 +1821,7 @@ p#final3 {
 	border: 0px solid #c0c0c0;
 	position: relative;
 	padding-top: 0px;
-	background-image: url(images/vector14.jpg);
+	/*background-image: url(images/vector14.jpg);*/
 	background-position: left center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -1844,7 +1844,7 @@ p#final3 {
 	backdrop-filter: (5px);
 	position: relative;
 	padding-top: 0px;
-	background-image: url(images/vector14.jpg);
+	/*background-image: url(images/vector14.jpg);*/
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
