@@ -1925,10 +1925,10 @@ li {
 .tituloslide {
 	width: 150px;
 	height: auto;
-	background-color: white;
+	background-color: rgb(49,49,49);
 	margin: 25px auto 0px auto;
-	border: 1px solid white;
-	border-radius: 3px;
+	border: 0px solid white;
+	border-radius: 0px;
 }
 
 .tituloslide p {
