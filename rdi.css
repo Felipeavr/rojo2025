@@ -1891,8 +1891,8 @@ p#final3 {
 	font-size: 14px;
 	font-weight: 300;
 	font-family: 'Source Sans Pro', sans-serif;
-	text-align: center;
-	padding-bottom: 20px;
+	text-align: left;
+	padding: 20px;
 }
 
 .textcard2 p {
@@ -1901,8 +1901,8 @@ p#final3 {
 	font-size: 14px;
 	font-weight: 300;
 	font-family: 'Source Sans Pro', sans-serif;
-	text-align: center;
-	padding-bottom: 20px;
+	text-align: left;
+	padding: 20px;
 }
 
 a {
