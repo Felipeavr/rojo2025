@@ -27,7 +27,7 @@
 .grid-item {
     width: 230px;
     margin-bottom: 10px;
-    border-radius: 10px;
+    border-radius: 0px;
     cursor: zoom-in;
     background-color: lightgray;
 
